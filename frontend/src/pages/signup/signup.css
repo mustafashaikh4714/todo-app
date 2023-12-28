@@ -1,0 +1,11 @@
+/* SignupForm.css */
+
+/* Import the common styles for the forms */
+@import '../login/login.css';
+
+/* Additional styling for the signup form container */
+.container {
+  background-color: #f8f9fa;
+}
+
+/* Additional styling for form elements, if needed */
